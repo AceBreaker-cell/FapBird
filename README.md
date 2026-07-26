@@ -6,6 +6,9 @@ Project ini merupakan **tugas individu** untuk mata kuliah **Pengenalan Pemrogra
 
 ## 🎮 Preview
 
+<img width="1920" height="1032" alt="Screenshot 2026-07-26 103507" src="https://github.com/user-attachments/assets/b5a6709f-1199-44a8-aeb9-dfbfd469d0ff" />
+
+
 Game menampilkan tampilan portrait (9:16) dengan latar kota pixel-art saat senja, sistem skor (Score & Best), pesawat yang bisa dikendalikan untuk terbang, serta rintangan berupa pipa yang muncul secara berkala.
 
 ## ✨ Fitur
